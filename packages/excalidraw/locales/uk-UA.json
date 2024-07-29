@@ -432,7 +432,8 @@
     "version": "Версія",
     "versionCopy": "Натисніть, щоб скопіювати",
     "versionNotAvailable": "Версія недоступна",
-    "width": "Ширина"
+    "width": "Ширина",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Додано до бібліотеки",

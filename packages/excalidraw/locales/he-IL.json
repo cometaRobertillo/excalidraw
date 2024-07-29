@@ -432,7 +432,8 @@
     "version": "גרסה",
     "versionCopy": "לחץ להעתקה",
     "versionNotAvailable": "הגרסה אינה זמינה",
-    "width": "רוחב"
+    "width": "רוחב",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "נוסף לספריה",

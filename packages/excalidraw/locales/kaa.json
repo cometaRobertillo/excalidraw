@@ -432,7 +432,8 @@
     "version": "Versiya",
     "versionCopy": "Kóshirip alıw ushın basıń",
     "versionNotAvailable": "",
-    "width": "Eni"
+    "width": "Eni",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Kitapxanaǵa qosıldı",

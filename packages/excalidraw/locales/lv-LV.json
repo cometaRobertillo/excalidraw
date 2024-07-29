@@ -432,7 +432,8 @@
     "version": "Versija",
     "versionCopy": "Klikšķiniet, lai nokopētu",
     "versionNotAvailable": "Versija nav pieejama",
-    "width": "Platums"
+    "width": "Platums",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Pievienots bibliotēkai",

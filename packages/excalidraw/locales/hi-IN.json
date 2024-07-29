@@ -432,7 +432,8 @@
     "version": "संस्करण",
     "versionCopy": "काॅपी करने के लिए क्लिक करें",
     "versionNotAvailable": "संस्करण उपलब्ध नहीं है",
-    "width": "चौड़ाई"
+    "width": "चौड़ाई",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "",

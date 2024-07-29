@@ -432,7 +432,8 @@
     "version": "バージョン",
     "versionCopy": "クリックしてコピー",
     "versionNotAvailable": "利用できないバージョン",
-    "width": "幅"
+    "width": "幅",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "ライブラリに追加しました",

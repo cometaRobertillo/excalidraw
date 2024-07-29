@@ -432,7 +432,8 @@
     "version": "Versiune",
     "versionCopy": "Clic pentru copiere",
     "versionNotAvailable": "Versiune indisponibilă",
-    "width": "Lățime"
+    "width": "Lățime",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Adăugat în bibliotecă",

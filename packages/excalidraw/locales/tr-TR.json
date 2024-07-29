@@ -432,7 +432,8 @@
     "version": "Sürüm",
     "versionCopy": "Kopyalamak için tıkla",
     "versionNotAvailable": "Sürüm mevcut değil",
-    "width": "Genişlik"
+    "width": "Genişlik",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Kütüphaneye eklendi",

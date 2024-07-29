@@ -432,7 +432,8 @@
     "version": "الإصدار",
     "versionCopy": "انقر للنسخ",
     "versionNotAvailable": "الإصدار غير متوفر",
-    "width": "العرض"
+    "width": "العرض",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "تمت الاضافة الى المكتبة!",

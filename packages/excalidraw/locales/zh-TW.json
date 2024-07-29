@@ -432,7 +432,8 @@
     "version": "版本",
     "versionCopy": "點擊複製",
     "versionNotAvailable": "無法取得版本",
-    "width": "寬度"
+    "width": "寬度",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "加入資料庫",

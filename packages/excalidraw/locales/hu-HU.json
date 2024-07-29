@@ -432,7 +432,8 @@
     "version": "Verzió",
     "versionCopy": "Kattints a másoláshoz",
     "versionNotAvailable": "A verzió nem elérhető",
-    "width": "Szélesség"
+    "width": "Szélesség",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Könyvtárhoz adva",

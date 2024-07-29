@@ -432,7 +432,8 @@
     "version": "Versjon",
     "versionCopy": "Klikk for å kopiere",
     "versionNotAvailable": "Versjonen er ikkje tilgjengeleg",
-    "width": "Breidde"
+    "width": "Breidde",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Lagt til i bibliotek",

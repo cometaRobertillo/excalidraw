@@ -432,7 +432,8 @@
     "version": "Bertsioa",
     "versionCopy": "Klikatu kopiatzeko",
     "versionNotAvailable": "Bertsio ez eskuragarria",
-    "width": "Zabalera"
+    "width": "Zabalera",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Liburutegira gehitu da",

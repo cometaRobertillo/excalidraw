@@ -432,7 +432,8 @@
     "version": "ਸੰਸਕਰਨ",
     "versionCopy": "ਕਾਪੀ ਕਰਨ ਲਈ ਕਲਿੱਕ ਕਰੋ",
     "versionNotAvailable": "ਸੰਸਕਰਨ ਉਪਲਬਧ ਨਹੀਂ ਹੈ",
-    "width": "ਚੌੜਾਈ"
+    "width": "ਚੌੜਾਈ",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "ਲਾਇਬ੍ਰੇਰੀ ਵਿੱਚ ਜੋੜਿਆ",

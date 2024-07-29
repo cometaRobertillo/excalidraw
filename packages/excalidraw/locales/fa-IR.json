@@ -432,7 +432,8 @@
     "version": "نسخه",
     "versionCopy": "برای کپی کردن کلیک کنید",
     "versionNotAvailable": "نسخه غیرقابل دسترس",
-    "width": "عرض"
+    "width": "عرض",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "به مجموعه اضافه شد",

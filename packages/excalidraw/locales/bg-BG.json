@@ -432,7 +432,8 @@
     "version": "Версия",
     "versionCopy": "Настисни за да копираш",
     "versionNotAvailable": "Версията не е налична",
-    "width": "Широчина"
+    "width": "Широчина",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Добавена към библиотеката",

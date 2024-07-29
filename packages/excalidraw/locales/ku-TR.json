@@ -432,7 +432,8 @@
     "version": "وەشان",
     "versionCopy": "کلیک بۆ لەبەرگرتنەوە",
     "versionNotAvailable": "وەشان بەردەست نییە",
-    "width": "پانی"
+    "width": "پانی",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "زیادکرا بۆ کتێبخانە",

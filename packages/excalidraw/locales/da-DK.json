@@ -432,7 +432,8 @@
     "version": "",
     "versionCopy": "Klik for at kopiere",
     "versionNotAvailable": "",
-    "width": "Bredde"
+    "width": "Bredde",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "",

@@ -432,7 +432,8 @@
     "version": "Version",
     "versionCopy": "Clicar per copiar",
     "versionNotAvailable": "Version pas disponibla",
-    "width": "Largor"
+    "width": "Largor",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Apondut a la bibliotèca",

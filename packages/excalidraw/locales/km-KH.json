@@ -432,7 +432,8 @@
     "version": "ជំនាន់:",
     "versionCopy": "ចុចដើម្បីចម្លង",
     "versionNotAvailable": "កំណែមិនអាចប្រើបាន",
-    "width": "ទទឹង​"
+    "width": "ទទឹង​",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "បានបន្ថែមទៅបណ្ណាល័យ",

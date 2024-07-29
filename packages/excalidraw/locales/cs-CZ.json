@@ -432,7 +432,8 @@
     "version": "Verze",
     "versionCopy": "Kliknutím zkopírujete",
     "versionNotAvailable": "Verze není k dispozici",
-    "width": "Šířka"
+    "width": "Šířka",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Přidáno do knihovny",

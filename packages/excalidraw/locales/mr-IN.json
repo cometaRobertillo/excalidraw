@@ -432,7 +432,8 @@
     "version": "आवृत्ती",
     "versionCopy": "कॉपी करायला क्लिक करा",
     "versionNotAvailable": "आवृति उपलब्ध नाही",
-    "width": "रुंदी"
+    "width": "रुंदी",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "संग्रह मधे सम्मिलित",

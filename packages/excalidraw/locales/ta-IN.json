@@ -432,7 +432,8 @@
     "version": "பதிப்பு",
     "versionCopy": "நகலெடுக்க சொடுக்கு",
     "versionNotAvailable": "பதிப்பு கிடைக்கவில்லை",
-    "width": "அகலம்"
+    "width": "அகலம்",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "நூலகத்தில் சேர்க்கப்பட்டது",

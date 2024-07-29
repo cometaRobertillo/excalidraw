@@ -432,7 +432,8 @@
     "version": "Έκδοση",
     "versionCopy": "Κάνε κλικ για αντιγραφή",
     "versionNotAvailable": "Έκδοση μη διαθέσιμη",
-    "width": "Πλάτος"
+    "width": "Πλάτος",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Προστέθηκε στη βιβλιοθήκη",

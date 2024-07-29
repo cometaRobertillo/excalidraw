@@ -432,7 +432,8 @@
     "version": "Нұсқа",
     "versionCopy": "Көшіру үшін басыңыз",
     "versionNotAvailable": "Бұл нұсқа қолжетімсіз",
-    "width": "Ені"
+    "width": "Ені",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "",

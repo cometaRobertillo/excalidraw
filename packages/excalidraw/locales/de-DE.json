@@ -432,7 +432,8 @@
     "version": "Version",
     "versionCopy": "Zum Kopieren klicken",
     "versionNotAvailable": "Version nicht verfügbar",
-    "width": "Breite"
+    "width": "Breite",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Zur Bibliothek hinzugefügt",

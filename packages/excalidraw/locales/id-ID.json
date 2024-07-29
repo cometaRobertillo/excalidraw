@@ -432,7 +432,8 @@
     "version": "Versi",
     "versionCopy": "Klik untuk salin",
     "versionNotAvailable": "Versi tidak tersedia",
-    "width": "Lebar"
+    "width": "Lebar",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Tambahkan ke pustaka",

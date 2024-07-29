@@ -432,7 +432,8 @@
     "version": "Versie",
     "versionCopy": "Klik om te kopiëren",
     "versionNotAvailable": "Versie niet beschikbaar",
-    "width": "Breedte"
+    "width": "Breedte",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Toegevoegd aan bibliotheek",

@@ -432,7 +432,8 @@
     "version": "Version",
     "versionCopy": "Klicka för att kopiera",
     "versionNotAvailable": "Versionen är inte tillgänglig",
-    "width": "Bredd"
+    "width": "Bredd",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Tillagd i biblioteket",

@@ -432,7 +432,8 @@
     "version": "Alqem",
     "versionCopy": "Sit ad tneɣleḍ",
     "versionNotAvailable": "Ur inuḥ ulqem",
-    "width": "Tehri"
+    "width": "Tehri",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Yettwarna ɣer temkarḍit",

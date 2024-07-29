@@ -432,7 +432,8 @@
     "version": "Različica",
     "versionCopy": "Kliknite za kopiranje",
     "versionNotAvailable": "Različica ni na voljo",
-    "width": "Širina"
+    "width": "Širina",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Dodano v knjižnico",

@@ -299,6 +299,10 @@ export const HelpDialog = ({ onClose }: { onClose?: () => void }) => {
                     ]
               }
             />
+            <Shortcut
+              label={t("stats.hideHUB")}
+              shortcuts={[getShortcutKey("Ctrl+H")]}
+            />
           </ShortcutIsland>
           <ShortcutIsland
             className="HelpDialog__island--editor"

@@ -432,7 +432,8 @@
     "version": "Версия",
     "versionCopy": "Копировать",
     "versionNotAvailable": "Версия не доступна",
-    "width": "Ширина"
+    "width": "Ширина",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Добавлено в библиотеку",

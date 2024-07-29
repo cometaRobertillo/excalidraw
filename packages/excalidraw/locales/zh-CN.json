@@ -432,7 +432,8 @@
     "version": "版本",
     "versionCopy": "点击复制",
     "versionNotAvailable": "版本不可用",
-    "width": "宽度"
+    "width": "宽度",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "添加到素材库中",

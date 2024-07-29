@@ -432,7 +432,8 @@
     "version": "",
     "versionCopy": "",
     "versionNotAvailable": "",
-    "width": "Plotis"
+    "width": "Plotis",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Pridėta į biblioteką",

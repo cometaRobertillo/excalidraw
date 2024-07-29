@@ -432,7 +432,8 @@
     "version": "버전",
     "versionCopy": "복사하려면 클릭",
     "versionNotAvailable": "해당 버전 사용 불가능",
-    "width": "너비"
+    "width": "너비",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "라이브러리에 추가되었습니다",

@@ -432,7 +432,8 @@
     "version": "Versio",
     "versionCopy": "Klikkaa kopioidaksesi",
     "versionNotAvailable": "Versio ei saatavilla",
-    "width": "Leveys"
+    "width": "Leveys",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "Lisätty kirjastoon",

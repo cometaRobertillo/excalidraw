@@ -432,7 +432,8 @@
     "version": "",
     "versionCopy": "",
     "versionNotAvailable": "",
-    "width": "প্রস্থ"
+    "width": "প্রস্থ",
+    "hideHUB": ""
   },
   "toast": {
     "addedToLibrary": "সংগ্রহশালায় যুক্ত হয়েছে",
